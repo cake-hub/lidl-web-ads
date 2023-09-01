@@ -1,8 +1,8 @@
-version: 1.0.0
+version: 1.1.0
 designLine: "Apple Pie"
 company: Lidl
 product: Web
 productIcon: earth
 section: Ads
 sectionIcon: flyer
-visible: false
+visible: true

@@ -1,7 +1,7 @@
-# Mobile Content Ad
+# Smartphone Banner Ad
 
 A banner for mobile devices with high-visibility according to IAB standards.
-For tablet and desktop devices the [Desktop Billboard Ad](../Desktop%20Billboard%20Ad/Desktop%20Billboard%20Ad.md) will be used.
+For tablet and desktop devices the [Leaderboard Ad](../Leaderboard%20Ad/Leaderboard%20Ad.md) will be used.
 
 ---
 
@@ -9,8 +9,8 @@ For tablet and desktop devices the [Desktop Billboard Ad](../Desktop%20Billboard
 
 Type | Value
 ---|---|
-Display size | 320x150 px
-Retina size | 640x300 px
+Display size | 320x50 px
+Retina size | 640x100 px
 Font size | min. 12 px *
 File size | max. 200 kb
 File format | jpg, png
@@ -29,11 +29,11 @@ Try to place your key visual elements around the central part of the ad space.
 
 ---
 
-### Examples
+### Example
 
-Start page | Campaign page
+Category & Search page |
 ---|---
-![asset/example full-width](assets/examples/startpagemobilecontent-xs@1x.png) | ![asset/example full-width](assets/examples/campaignpagemobilecontent-xs@1x.png)
+![asset/example full-width](assets/examples/searchpagesmartphonebanner-xs@1x.png) |
 
 *Click on the image in the table to see it in the full screen mode.*
 
@@ -41,4 +41,4 @@ Start page | Campaign page
 
 ## Asset template
 
-[Mobile Content Ad template (PSD file)](https://storage.cake.schwarz/SMP/web-template-mobileContent.psd)
+[Smartphone Banner Ad template (PSD file)](https://storage.cake.schwarz/SMP/web-template-smartphonebanner.psd)

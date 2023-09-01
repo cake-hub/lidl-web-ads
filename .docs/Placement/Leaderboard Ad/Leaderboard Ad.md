@@ -1,7 +1,7 @@
-# Desktop Billboard Ad
+# Leaderboard Ad
 
 A banner for tablet and desktop devices with high-visibility according to IAB standards.<br>
-For mobile devices the [Mobile Content Ad](../Mobile%20Content%20Ad/Mobile%20Content%20Ad.md) will be used.
+For mobile devices the [Smartphone Banner Ad](../Smartphone%20Banner%20Ad/Smartphone%20Banner%20Ad.md) will be used.
 
 ---
 
@@ -9,8 +9,8 @@ For mobile devices the [Mobile Content Ad](../Mobile%20Content%20Ad/Mobile%20Con
 
 Type | Value
 ---|---|
-Display size | 970x250 px
-Retina size | 1.940x500 px
+Display size | 728x90 px
+Retina size | 1.456x180 px
 Font size | min. 14 px *
 File size | max. 200 kb
 File format | jpg, png
@@ -35,8 +35,7 @@ Try to place your key visual elements around the central part of the ad space.
 
 Type | SM | MD | LG
 ---|---|---|---
-Start page | ![asset/example full-width](assets/examples/startpagebillboard-sm@1x.png) | ![asset/example full-width](assets/examples/startpagebillboard-md@1x.png) | ![asset/example full-width](assets/examples/startpagebillboard-lg@1x.png)
-Campaign page | ![asset/example full-width](assets/examples/campaignpagebillboard-sm@1x.png) | ![asset/example full-width](assets/examples/campaignpagebillboard-md@1x.png) | ![asset/example full-width](assets/examples/campaignpagebillboard-lg@1x.png)
+Search & Category page | ![asset/example full-width](assets/examples/searchleaderboard-sm@1x.png) | ![asset/example full-width](assets/examples/searchleaderboard-md@1x.png) | ![asset/example full-width](assets/examples/searchleaderboard-lg@1x.png)
 
 *Click on the image in the table to see it in the full screen mode.*
 
@@ -44,4 +43,4 @@ Campaign page | ![asset/example full-width](assets/examples/campaignpagebillboar
 
 ## Asset template
 
-[Billboard Ad template (PSD file)](https://storage.cake.schwarz/SMP/web-template-billboard.psd)
+[Leaderboard Ad template (PSD file)](https://storage.cake.schwarz/SMP/web-template-leaderboard.psd)
